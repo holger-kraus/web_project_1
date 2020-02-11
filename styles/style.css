@@ -135,7 +135,7 @@
 }
 
 .section-title_theme-dark {
-    color: white;
+    color: #FFFFFF;
     margin-top: 90px;
 }
 
@@ -151,7 +151,7 @@
 }
 
 .section-subtitle_theme-dark {
-    color: white;
+    color: #FFFFFF;
 }
 
 .table {
@@ -197,7 +197,7 @@
 }
 
 .table__heading_theme-dark {
-    color: white;
+    color: #FFFFFF;
     z-index: 2;
 }
 
@@ -209,7 +209,7 @@
 }
 
 .table__text_theme-dark {
-    color: white;
+    color: #FFFFFF;
     z-index: 2;
 }
 
@@ -253,7 +253,7 @@
     line-height: 51px;
     font-size: 36px;
     font-weight: normal;
-    color: black;
+    color: #000000;
     text-decoration: none;
 }
 
@@ -279,7 +279,7 @@
     background-color: #1F1F1F;
     padding-top: 60px;
     padding-bottom: 40px;
-    color: white;
+    color: #FFFFFF;
     min-height: 350px;
 }
 
@@ -335,14 +335,14 @@
 
 .footer__column-link {
     text-decoration: none;
-    color: grey;
+    color: #808080;
     margin-left: 0;
 }
 
 .footer__author {
     margin-top: 18px;
     margin-bottom: 18px;
-    color: grey;
+    color: #808080;
     line-height: 25px;
     font-size: 18px;
     font-weight: normal;
@@ -366,7 +366,7 @@
 }
 
 .footer__social-link {
-    color: grey;
+    color: #808080;
     text-decoration: none;
 }
 
