@@ -1,0 +1,12 @@
+.cards__item {
+  margin-top: 60px;
+  margin-left: 0;
+  margin-right: 100px;
+  margin-bottom: 0;
+  width: 240px;
+  list-style: none;
+}
+
+.cards__item:nth-child(3) {
+  margin-right: 0;
+}
