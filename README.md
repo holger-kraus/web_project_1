@@ -47,6 +47,7 @@ In detail the following technologies and methods have been used:
     * positioning
     * embedding videos via iFrames
     * transformations
+    * smooth transitions
     * animations
 
 ## What is still open

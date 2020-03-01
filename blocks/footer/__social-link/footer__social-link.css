@@ -1,4 +1,9 @@
 .footer__social-link {
   color: #808080;
   text-decoration: none;
+  transition: opacity 1s ease-in-out;
+}
+
+.footer__social-link:hover {
+  opacity: 0.5;
 }

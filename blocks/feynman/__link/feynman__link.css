@@ -7,4 +7,9 @@
   font-weight: normal;
   color: #000000;
   text-decoration: none;
+  transition: opacity 1s ease-in-out;
+}
+
+.feynman__link:hover {
+  opacity: 0.5;
 }
