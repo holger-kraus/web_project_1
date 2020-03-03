@@ -2,7 +2,7 @@
 
 ## Web Development course at Yandex Practicum
 I am participating in an excellent web development course at [Yandex Practicum](https://practicum.yandex.com/) right now.
-You get a very good introduction into many web develompent topics on their learning platform. After mastering the 
+You get a very good introduction into many web development topics on their learning platform. After mastering the 
 according lessons, you have to proof your newly acquired skills in your own projects. 
 
 ## My first project
